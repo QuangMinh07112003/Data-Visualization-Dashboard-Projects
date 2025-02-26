@@ -1,2 +1,2 @@
-# Data-Visualization-Dashboard-Projects
-This includes the Data Visualization Projects, showcasing my data visualization and programming skills.
+# PowerBI-and-Excel-Analysis
+This repository is to showcase my data visualization and dashboard constructing skills in PowerBI and Excel.
